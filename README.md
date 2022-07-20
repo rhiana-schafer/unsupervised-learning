@@ -7,9 +7,8 @@ This repo contains code which performs machine learning on a dataset of patients
 ## Recommendations & Visualizations of clusters:
 Based on the above analysis, the optimal number of clusters for this patient cohort is k=4. 
 
-![Elbow Curve](Visualizations/K-MeansElbow.png "Elbow Curve")
-
-![Final Cluster Visualization.](Visualizations/Cluster_Vis.png "Final Cluster Visualization")
+K-MeansElbow.png
+Cluster_Vis.png
 
 ## Methods:
 * PCA
