@@ -6,9 +6,8 @@ This repo contains code which performs machine learning on a dataset of patients
 
 ## Recommendations & Visualizations of clusters:
 Based on the above analysis, the optimal number of clusters for this patient cohort is k=4. 
-
-K-MeansElbow.png
-Cluster_Vis.png
+![alt text](https://github.com/rhiana-schafer/unsupervised-learning/blob/main/Visualizations/K-MeansElbow.png)
+![alt text](https://github.com/rhiana-schafer/unsupervised-learning/blob/main/Visualizations/Cluster_Vis.png)
 
 ## Methods:
 * PCA
